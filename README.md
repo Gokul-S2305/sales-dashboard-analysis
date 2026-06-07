@@ -102,11 +102,7 @@ Users can filter dashboard results by:
 
 ## 📷 Dashboard Preview
 
-Add your exported dashboard image inside the `images` folder and display it below:
-
-```markdown
-![Dashboard Preview](images/dashboard.png)
-```
+`images/dashboard.png`
 
 ---
 
