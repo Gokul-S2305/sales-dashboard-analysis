@@ -102,8 +102,7 @@ Users can filter dashboard results by:
 
 ## 📷 Dashboard Preview
 
-`images/dashboard.png`
-
+<img src="images/dashboard.png" width="100%">
 ---
 
 ## 🌐 Live Tableau Dashboard
