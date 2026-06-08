@@ -102,7 +102,7 @@ Users can filter dashboard results by:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](images/sales_dashboard_v2.png)
+<img src="images/dashboard.png" width="100%">
 
 ---
 
